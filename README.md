@@ -1,4 +1,4 @@
-### Hola, I'm Vivek Gonal! 👋
+## Hola, I'm Vivek Gonal! 👋
 
 - 🔭 I’m currently working on React Native.
 - 🌱 I’m currently learning Machine Learning.
